@@ -4,4 +4,5 @@ scrapy + mysql + css + xpath + ajax
    查询功能
    登录功能（历史纪录+常用查询）
    管理功能
+   链接功能
    
